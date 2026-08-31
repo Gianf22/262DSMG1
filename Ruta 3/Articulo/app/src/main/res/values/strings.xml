@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Articulo</string>
+    <string name="jetpack_titulo">Jetpack compose Tutorial</string>
+    <string name="short_text">Jetpack Compose is a modern toolkit for building native Android UI compost simply accelerate UI development on Android with less code powerful tools and intuitive kotlin APIs.</string>
+    <string name="long_text">in this tutorial you building a simple UI component with declarative functions you call compost functions to say what elements you want in the compost computer that\'s the rest compost is built around compensable functions dysfunctions like you define your apps UI programming to Kelly because they let you describe how it should look and provide data dependencies rather than focus on the process of the US constructions such as initialization and element and then attaching it to a parent to create a composable function you are the atcomposable annotation to the function name.</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">composequadrant</string>
+    <string name="titulo_1">text composable</string>
+    <string name="descripciòn_1">displays text and follows the recommended material design guidelines</string>
+    <string name="titulo_2">image composable</string>
+    <string name="descripcion_2">creators and composable that lays out and drums a given painter glass object</string>
+    <string name="titulo_3">row composable</string>
+    <string name="descripcion_3">a layout composable the places it\'s children in a horizontal sequence</string>
+    <string name="titulo_4">column composable</string>
+    <string name="descripcion_4">a layout composable place a children in a vertical sequence</string>
+</resources>
