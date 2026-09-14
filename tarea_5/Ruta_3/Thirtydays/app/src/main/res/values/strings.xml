@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Thirtydays</string>
+    <!-- Day 1 -->
+    <string name="day1_title">Spend 15 minutes outdoors</string>
+    <string name="day1_desc">Put some time on your calendar to take a walk outside or maybe even take a meeting while you are strolling through your neighborhood.</string>
+
+    <!-- Day 2 -->
+    <string name="day2_title">Listen to a new podcast or audiobook</string>
+    <string name="day2_desc">Listen to a podcast and explore a topic you have been itching to learn more about, or discover a completely new subject.</string>
+
+    <!-- Day 3 -->
+    <string name="day3_title">Meditate for at least 3 minutes</string>
+    <string name="day3_desc">Close your eyes, sit comfortably, and focus entirely on the cadence of your breathing without judging wandering thoughts.</string>
+
+    <!-- Day 4 -->
+    <string name="day4_title">Drink 8 glasses of water</string>
+    <string name="day4_desc">Keep a reusable bottle on your desk and track your hydration levels throughout the workday to maintain energy.</string>
+
+    <!-- Day 5 -->
+    <string name="day5_title">Do a 10-minute stretch</string>
+    <string name="day5_desc">Alleviate stiffness in your lower back, neck, and shoulders after long coding or study sessions with gentle stretches.</string>
+
+    <!-- Day 6 -->
+    <string name="day6_title">Read a book chapter</string>
+    <string name="day6_desc">Replace evening screen time with a single chapter of a physical book or e-reader before getting into bed.</string>
+
+    <!-- Day 7 -->
+    <string name="day7_title">Try a digital detox hour</string>
+    <string name="day7_desc">Turn off phone notifications, silence your smartwatch, and close your laptop completely for one continuous hour.</string>
+
+    <!-- Day 8 -->
+    <string name="day8_title">Prepare a fresh homemade meal</string>
+    <string name="day8_desc">Cook a meal from scratch using seasonal produce, fresh greens, and whole ingredients without relying on processed food.</string>
+
+    <!-- Day 9 -->
+    <string name="day9_title">Write down three things you are grateful for</string>
+    <string name="day9_desc">Take two minutes to note down small personal victories, helpful peers, or pleasant everyday occurrences.</string>
+
+    <!-- Day 10 -->
+    <string name="day10_title">Go to bed 30 minutes earlier</string>
+    <string name="day10_desc">Prepare your bedroom environment early, dim the lights, and aim for a full uninterrupted night of deep sleep.</string>
+
+    <!-- Day 11 -->
+    <string name="day11_title">Tidy your desk setup</string>
+    <string name="day11_desc">Clear loose cables, discarded sticky notes, and used mugs to create an uncluttered, focus-friendly working environment.</string>
+
+    <!-- Day 12 -->
+    <string name="day12_title">Reach out to a distant friend</string>
+    <string name="day12_desc">Send a short audio note or friendly text message just to ask someone how their week is going.</string>
+
+    <!-- Day 13 -->
+    <string name="day13_title">Practice mindful breathing</string>
+    <string name="day13_desc">Use the box-breathing technique: inhale for 4 seconds, hold for 4, exhale for 4, and hold for 4 to lower stress.</string>
+
+    <!-- Day 14 -->
+    <string name="day14_title">Enjoy a cup of herbal tea</string>
+    <string name="day14_desc">Sip on chamomile, peppermint, or green tea slowly without checking emails or doom-scrolling social media.</string>
+
+    <!-- Day 15 -->
+    <string name="day15_title">Take a short power nap</string>
+    <string name="day15_desc">Recharge your brain with a 15 to 20 minute restorative nap during midday to reset alertness and memory.</string>
+
+    <!-- Day 16 -->
+    <string name="day16_title">Walk 5,000 steps</string>
+    <string name="day16_desc">Take the stairs instead of the elevator, park further away, or walk around the block after eating lunch.</string>
+
+    <!-- Day 17 -->
+    <string name="day17_title">Journal your current thoughts</string>
+    <string name="day17_desc">Free-write whatever is on your mind onto a blank sheet of paper to untangle complex mental overload.</string>
+
+    <!-- Day 18 -->
+    <string name="day18_title">Reduce refined sugar intake</string>
+    <string name="day18_desc">Swap afternoon candy bars or sugary sodas for whole fruits, almonds, or sparkling water with lemon.</string>
+
+    <!-- Day 19 -->
+    <string name="day19_title">Listen to relaxing nature sounds</string>
+    <string name="day19_desc">Put on headphones and stream rain, forest ambience, or ocean waves to relax your nervous system.</string>
+
+    <!-- Day 20 -->
+    <string name="day20_title">Compliment someone sincerely</string>
+    <string name="day20_desc">Recognize a teammate, family member, or friend for something they did well or a trait you genuinely admire.</string>
+
+    <!-- Day 21 -->
+    <string name="day21_title">Try a quick bodyweight workout</string>
+    <string name="day21_desc">Perform three sets of squats, push-ups, and planks right in your room to boost blood circulation.</string>
+
+    <!-- Day 22 -->
+    <string name="day22_title">Declutter your digital desktop</string>
+    <string name="day22_desc">Empty your Downloads folder, archive finished files, and clear unneeded desktop shortcuts.</string>
+
+    <!-- Day 23 -->
+    <string name="day23_title">Spend time with plants or nature</string>
+    <string name="day23_desc">Water your indoor plants, repot herbs, or sit on grass in a local park under natural tree shade.</string>
+
+    <!-- Day 24 -->
+    <string name="day24_title">Learn a few words in a new language</string>
+    <string name="day24_desc">Expand your mental horizon by looking up five daily conversational phrases in a language you have never studied.</string>
+
+    <!-- Day 25 -->
+    <string name="day25_title">Eat a colorful lunch</string>
+    <string name="day25_desc">Incorporate at least three distinct colors of vegetables into your plate to maximize nutrient variety.</string>
+
+    <!-- Day 26 -->
+    <string name="day26_title">Practice good posture while sitting</string>
+    <string name="day26_desc">Keep your feet flat on the floor, pull your shoulders back, and elevate your computer monitor to eye level.</string>
+
+    <!-- Day 27 -->
+    <string name="day27_title">Unsubscribe from unwanted newsletters</string>
+    <string name="day27_desc">Open your email client and hit unsubscribe on marketing promotions and spam lists that crowd your inbox.</string>
+
+    <!-- Day 28 -->
+    <string name="day28_title">Watch a captivating sunset</string>
+    <string name="day28_desc">Pause your evening routine for 10 minutes, step by a window or balcony, and watch the dusk sky change colors.</string>
+
+    <!-- Day 29 -->
+    <string name="day29_title">Listen to your favorite nostalgic playlist</string>
+    <string name="day29_desc">Revisit the songs and albums that defined your favorite milestones and let the music elevate your mood.</string>
+
+    <!-- Day 30 -->
+    <string name="day30_title">Reflect on your monthly achievements</string>
+    <string name="day30_desc">Look back at the past 30 days, celebrate new habits formed, skills picked up, and progress made.</string>
+
+</resources>
