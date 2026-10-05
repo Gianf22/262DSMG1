@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LimaExplore</string>
+    <string name="back_button">Atrás</string>
+
+    <!-- Categorías -->
+    <string name="cat_parques">Parques</string>
+    <string name="cat_restaurantes">Restaurantes</string>
+    <string name="cat_cafeterias">Cafeterías</string>
+
+    <!-- Lugares -->
+    <string name="place_parque_amor">Parque del Amor</string>
+    <string name="desc_parque_amor">Ubicado en el malecón de Miraflores con una vista panorámica al Océano Pacífico, célebre por su escultura El Beso y sus muros con mosaicos coloridos.</string>
+
+    <string name="place_olivar">Bosque El Olivar</string>
+    <string name="desc_olivar">Un oasis verde histórico en el corazón de San Isidro con árboles de olivo centenarios y senderos tranquilos.</string>
+
+    <string name="place_isolina">Isolina Taberna Peruana</string>
+    <string name="desc_isolina">Taberna tradicional en Barranco famosa por sus porciones abundantes y platos criollos emblemáticos.</string>
+
+    <string name="place_punto_azul">Punto Azul</string>
+    <string name="desc_punto_azul">Restaurante referente para degustar ceviches frescos, tiraditos y arroces con mariscos.</string>
+
+    <string name="place_manolo">Manolo Churrería</string>
+    <string name="desc_manolo">Cafetería emblemática en la avenida Larco conocida por sus tradicionales churros rellenos y desayunos clásicos.</string>
+</resources>
